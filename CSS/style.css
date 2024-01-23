@@ -14,3 +14,8 @@ div {
 aside {
     background-color: blue;
 }
+
+footer {
+    background-color: #333;
+    color: #f5f5f5;
+}
